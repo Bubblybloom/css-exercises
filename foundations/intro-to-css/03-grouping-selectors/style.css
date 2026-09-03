@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.border-outset {
+    4px outset #000000;
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+.button-yes {
+    color: white;
+    background-color: black;
+}
+.button-no {
+    color: black;
+    background-color: yellow;
+}
